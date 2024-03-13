@@ -128,6 +128,7 @@ footer {
                     <li><a href="sobre.php">Sobre</a></li>
                     <li><a href="contato.php">Contato</a></li>
                     <li><a href="login.php">login</a></li>
+                    <li><a href="cadastro.php">cadastro</a></li>
                 </ul>
             </nav>
         </div>

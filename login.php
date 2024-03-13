@@ -67,6 +67,22 @@ button:hover {
 }
 </style>
 
+<body>
+    <header>
+        <div class="container">
+            <h1>GameShop</h1>
+            <nav>
+                <ul>
+                    <li><a href="home.php">Home</a></li>
+                    <li><a href="catalogo.php">Catálogo</a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
+                    <li><a href="contato.php">Contato</a></li>
+                    <li><a href="login.php">login</a></li>
+                    <li><a href="cadastro.php">cadastro</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
 
 </head>
 <body>
